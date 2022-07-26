@@ -1,5 +1,9 @@
   {{-- preload --}}
-  <div class="preload"><div id="logo"></div><div id="loader"></div></div>
+  <div class="preload">
+    <div id="loader">
+    </div>
+    <h1 class="text">Harap Tunggu !!!</h1>
+  </div>
 
   {{-- end preload --}}
   
